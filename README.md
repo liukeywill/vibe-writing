@@ -8,7 +8,7 @@
 |---|---|---|
 | 通用文章成稿、改写或表达审查 | [Vibe Writing](https://github.com/liukeywill/vibe-writing) | 内部编辑后直接交稿 |
 | 从研究方向逐阶段协作，自己把关关键决定 | [Vibe Research](https://github.com/liukeywill/vibe-research) | 每阶段交付并等待人工核查 |
-| 按确定主题连续推进到完整论文及材料包 | [Auto Paper](https://github.com/liukeywill/auto-paper) | 在实际条件允许范围内连续执行 |
+| 按确定主题连续推进到完整论文及材料包 | [Vibe Research · 自动成稿](https://github.com/liukeywill/vibe-research) | 在实际条件允许范围内连续执行 |
 
 本技能负责文章和表达，不管理科研问题、文献筛选、研究设计或实验。已有论文只做语言编辑时保留术语、引用、数字和限定；语言自然不代表研究结论已核验。完整科研任务按上表选择对应入口，不会仅因文章带有学术主题就自动启动论文流水线。
 
@@ -41,7 +41,7 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
 
 ## 与研究技能的关系
 
-Vibe Writing 不依赖 Research Core，也不强制安装两个科研 Skill。研究流程可以在证据与结论确认后使用表达编辑，但不能靠润色补证据、改研究立场或删除局限。实际调用其他 Skill 取决于用户任务和运行环境，三个入口可以分别安装。
+Vibe Writing 不依赖 Research Core，也不强制安装科研 Skill。研究流程可以在证据与结论确认后使用表达编辑，但不能靠润色补证据、改研究立场或删除局限。实际调用其他 Skill 取决于用户任务和运行环境，写作与科研两个入口可以分别安装。
 
 ## 文件与开源来源
 
