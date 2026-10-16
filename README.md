@@ -24,8 +24,9 @@ $vibe-writing 只审查以下文章，指出表达问题和修改方向，不重
 
 ```bash
 python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo liukeywill/skills \
-  --path skills/vibe-writing
+  --repo liukeywill/vibe-writing \
+  --path . \
+  --name vibe-writing
 ```
 
 ## 文件与开源来源
