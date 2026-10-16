@@ -1,4 +1,4 @@
 interface:
-  display_name: "Vibe Writing 全体裁写作"
-  short_description: "体裁加主题即可成稿，内置中文去AI腔、文体适配与事实保真，支持改写和审查"
-  default_prompt: "使用 $vibe-writing，体裁：【填写体裁】；主题：【填写主题】，完成中文去AI腔与事实保真检查后，直接交付完整文章。"
+  display_name: "Vibe Writing 通用写作与表达编辑"
+  short_description: "通用文章成稿、改写与表达审查，内置中文自然化编辑，不接管科研项目"
+  default_prompt: "使用 $vibe-writing，体裁：【填写体裁】；主题：【填写主题】，完成表达编辑和事实保真核对，直接交付完整文章。"
